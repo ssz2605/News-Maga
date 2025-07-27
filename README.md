@@ -29,5 +29,4 @@ NewsMag is a responsive and modern news application built with **React.js**, sty
 
 ---
 
-## 📁 Folder Structure
 
